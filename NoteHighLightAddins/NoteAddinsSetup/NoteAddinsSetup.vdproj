@@ -15,25 +15,55 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_05B12910DFC84B44905599F61AAE0581"
+        "MsmKey" = "8:_031B82D5652547DF86B516DFB4F2CD9B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1B081059723041B79BEF5951595FA257"
+        "MsmKey" = "8:_059E95FB55DC44EE926AB37A1C3C77B3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_235AB87FE60F4D41AD6F2C6533F535ED"
+        "MsmKey" = "8:_076B8AD733F64E94BA69C97F31EE229E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_2978619A09034036A0BDD30CC76D70C7"
+        "MsmKey" = "8:_0FFBC134B8B14A5C9121300F25C1FFD3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_11FF4565A90C4B56AD5673E1DF377EFF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
+        "OwnerKey" = "8:_9768055FFCE4ED77466AB4155283D782"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
+        "OwnerKey" = "8:_33297D37F01ECAAFF6EBA8DA31E4BA02"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
+        "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2D1AC137A27D4B748D5FB1CEDC858C72"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -45,79 +75,31 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_315B6990193C4A3192EC1C4AEBD4A9E6"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3A9F3D2FB88D51C337BFD4C068CFFEAE"
-        "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3A9F3D2FB88D51C337BFD4C068CFFEAE"
-        "OwnerKey" = "8:_5784AEBA4A78DBA5602021A890186FC9"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_3A9F3D2FB88D51C337BFD4C068CFFEAE"
+        "MsmKey" = "8:_33297D37F01ECAAFF6EBA8DA31E4BA02"
         "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_40CD08EC67C94AD3B7D83A0FD0060EF7"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4F376A31379A4534A335AEE247AE3C8F"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_55200911AD484F4A86B948CF38218179"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_5784AEBA4A78DBA5602021A890186FC9"
+        "MsmKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
         "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_633739F037644AF9A8EDFC765C8EB097"
+        "MsmKey" = "8:_3B8E4B75F9D0474DA4C907A35B3E0964"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_77D7292F9463433DA827C77730AEB3BA"
+        "MsmKey" = "8:_4B7F4FA0F15D426EB8DF4990BA53F2E3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8147EFF386CB47549A40577DBF1CD991"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_83D539CA2F13BFF3666FD4B4059712B2"
-        "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_86109462BA1745159661322829CD9252"
+        "MsmKey" = "8:_51E4F40AE25B4F5C81D1CF6CF5B06E88"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -129,103 +111,115 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_8927668B388C3340CF4CB3D13F4B1736"
+        "MsmKey" = "8:_89AB109A473F4585A3EE8673636C2BBA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8A61CFBED3544255853D838CBFA5B31A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9768055FFCE4ED77466AB4155283D782"
         "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_8927668B388C3340CF4CB3D13F4B1736"
-        "OwnerKey" = "8:_5784AEBA4A78DBA5602021A890186FC9"
+        "MsmKey" = "8:_9768055FFCE4ED77466AB4155283D782"
+        "OwnerKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_932FD924FA2E4AD6AE863F5F6DD0BCAA"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_A2EF9C17E68848D1B6768E8AC9B21625"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AE87E4F0AA5E4A74965C223CBBA2F7B8"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_B3D9675B12A04F75A7B5F335569C45F8"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_BA8A68576D734CAE969375E3F448AAE9"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C09E2AEA313F4EAAA63D634D5B90E177"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_CF0D2A179F1DD95AE6AE822E01D30BC5"
+        "MsmKey" = "8:_982776787DAB497E9E462B6D463CAD64"
         "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D5E637471234FA3D4B1E84581CD89750"
-        "OwnerKey" = "8:_8927668B388C3340CF4CB3D13F4B1736"
+        "MsmKey" = "8:_A348F1CB593F4DB39DDBBCF969B5BB45"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D5E637471234FA3D4B1E84581CD89750"
-        "OwnerKey" = "8:_E7A27685C11275DDDD93B76D72C20759"
+        "MsmKey" = "8:_B1C1A0A46CEB433B850E2732297E3044"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D5E637471234FA3D4B1E84581CD89750"
+        "MsmKey" = "8:_C10FEB0693CE4943A19EEB42822D0F62"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C14B672D29C34FA5A11B7593DDA8761E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C97DD4AB6B3448E593DF7B85F85D2803"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5485F4167E64284822EB625E63CD46E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DA3E20899A9D4C8E948AE4C40C7C5B9B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E479500563374BA3BCBCB17BDBDF7560"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E921A0B8843569D22E487A2C5A185851"
         "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_D9EC73F492594C6A861B4EC00F2B3511"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_E921A0B8843569D22E487A2C5A185851"
+        "OwnerKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_E7A27685C11275DDDD93B76D72C20759"
+        "MsmKey" = "8:_E921A0B8843569D22E487A2C5A185851"
         "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_EC5FB0F5F01D42FEAE5C5BBAB8AE8D35"
+        "MsmKey" = "8:_F546AA2D3E1245D2B1C8206F884D73DA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F5960A4668DA4AB78A12C3DB534F59CF"
+        "MsmKey" = "8:_F70330CDC637460788D73B378BF496F4"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_FD2FCE71E5CA4DA8ABB1F539FE5BEF04"
+        "MsmKey" = "8:_F875AD6650F7469BA8BE53F8BC9C2258"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -238,19 +232,31 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_5784AEBA4A78DBA5602021A890186FC9"
+        "OwnerKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E7A27685C11275DDDD93B76D72C20759"
+        "OwnerKey" = "8:_33297D37F01ECAAFF6EBA8DA31E4BA02"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_CF0D2A179F1DD95AE6AE822E01D30BC5"
+        "OwnerKey" = "8:_982776787DAB497E9E462B6D463CAD64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9768055FFCE4ED77466AB4155283D782"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -262,19 +268,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3A9F3D2FB88D51C337BFD4C068CFFEAE"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_8927668B388C3340CF4CB3D13F4B1736"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_D5E637471234FA3D4B1E84581CD89750"
+        "OwnerKey" = "8:_E921A0B8843569D22E487A2C5A185851"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -428,6 +422,43 @@
                 }
             }
         }
+        "ReleaseX64"
+        {
+        "DisplayName" = "8:ReleaseX64"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:ReleaseX64\\NoteAddinsSetup.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Net.Framework.3.5.SP1"
+                    {
+                    "Name" = "8:.NET Framework 3.5 SP1"
+                    "ProductCode" = "8:Microsoft.Net.Framework.3.5.SP1"
+                    }
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:Microsoft.Windows.Installer.3.1"
+                    {
+                    "Name" = "8:Windows Installer 3.1"
+                    "ProductCode" = "8:Microsoft.Windows.Installer.3.1"
+                    }
+                }
+            }
+        }
     }
     "Deployable"
     {
@@ -456,12 +487,12 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_05B12910DFC84B44905599F61AAE0581"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_031B82D5652547DF86B516DFB4F2CD9B"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\java.lang"
-            "TargetName" = "8:java.lang"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\html.lang"
+            "TargetName" = "8:html.lang"
             "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -476,10 +507,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1B081059723041B79BEF5951595FA257"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_059E95FB55DC44EE926AB37A1C3C77B3"
             {
-            "SourcePath" = "8:..\\NoteHighLightAddins\\bin\\LocalDebug\\highlight\\libgcc_s_dw2-1.dll"
-            "TargetName" = "8:libgcc_s_dw2-1.dll"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\mingwm10.dll"
+            "TargetName" = "8:mingwm10.dll"
             "Tag" = "8:"
             "Folder" = "8:_16DC5F5A17EE4D6C8AE36D17ED190436"
             "Condition" = "8:"
@@ -496,12 +527,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_235AB87FE60F4D41AD6F2C6533F535ED"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_076B8AD733F64E94BA69C97F31EE229E"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\rand01.theme"
-            "TargetName" = "8:rand01.theme"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\edit-flashdevelop.theme"
+            "TargetName" = "8:edit-flashdevelop.theme"
             "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -516,12 +547,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2978619A09034036A0BDD30CC76D70C7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0FFBC134B8B14A5C9121300F25C1FFD3"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\css.lang"
-            "TargetName" = "8:css.lang"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\edit-emacs.theme"
+            "TargetName" = "8:edit-emacs.theme"
             "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -536,12 +567,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_315B6990193C4A3192EC1C4AEBD4A9E6"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_11FF4565A90C4B56AD5673E1DF377EFF"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\xml.lang"
-            "TargetName" = "8:xml.lang"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\fruit.theme"
+            "TargetName" = "8:fruit.theme"
             "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -556,20 +587,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3A9F3D2FB88D51C337BFD4C068CFFEAE"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1FB6113FA2444825F0F116BE0B7B7786"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ICSharpCode.TextEditor, Version=3.0.0.3437, Culture=neutral, PublicKeyToken=4d61825e8dd49f1a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_3A9F3D2FB88D51C337BFD4C068CFFEAE"
+                    "_1FB6113FA2444825F0F116BE0B7B7786"
                     {
-                    "Name" = "8:ICSharpCode.TextEditor.dll"
+                    "Name" = "8:Helper.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:ICSharpCode.TextEditor.dll"
+            "SourcePath" = "8:Helper.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
@@ -587,12 +618,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_40CD08EC67C94AD3B7D83A0FD0060EF7"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2D1AC137A27D4B748D5FB1CEDC858C72"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\js.lang"
-            "TargetName" = "8:js.lang"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\bright.theme"
+            "TargetName" = "8:bright.theme"
             "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -607,12 +638,23 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4F376A31379A4534A335AEE247AE3C8F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_33297D37F01ECAAFF6EBA8DA31E4BA02"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\edit-flashdevelop.theme"
-            "TargetName" = "8:edit-flashdevelop.theme"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:GenerateHighLightContent, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_33297D37F01ECAAFF6EBA8DA31E4BA02"
+                    {
+                    "Name" = "8:GenerateHighLightContent.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:GenerateHighLightContent.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
+            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -624,37 +666,17 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_55200911AD484F4A86B948CF38218179"
-            {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\fruit.theme"
-            "TargetName" = "8:fruit.theme"
-            "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5784AEBA4A78DBA5602021A890186FC9"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_39B485B706809D532F905C0BD2E11D5B"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:NoteHighLightForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_5784AEBA4A78DBA5602021A890186FC9"
+                    "_39B485B706809D532F905C0BD2E11D5B"
                     {
                     "Name" = "8:NoteHighLightForm.exe"
                     "Attributes" = "3:512"
@@ -678,12 +700,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_633739F037644AF9A8EDFC765C8EB097"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B8E4B75F9D0474DA4C907A35B3E0964"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\bclear.theme"
-            "TargetName" = "8:bclear.theme"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\sql.lang"
+            "TargetName" = "8:sql.lang"
             "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -698,30 +720,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_77D7292F9463433DA827C77730AEB3BA"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4B7F4FA0F15D426EB8DF4990BA53F2E3"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\csharp.lang"
-            "TargetName" = "8:csharp.lang"
-            "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8147EFF386CB47549A40577DBF1CD991"
-            {
-            "SourcePath" = "8:C:\\Program Files\\WinHighlight\\COPYING"
-            "TargetName" = "8:COPYING"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\libgcc_s_dw2-1.dll"
+            "TargetName" = "8:libgcc_s_dw2-1.dll"
             "Tag" = "8:"
             "Folder" = "8:_16DC5F5A17EE4D6C8AE36D17ED190436"
             "Condition" = "8:"
@@ -738,32 +740,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_83D539CA2F13BFF3666FD4B4059712B2"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51E4F40AE25B4F5C81D1CF6CF5B06E88"
             {
-            "SourcePath" = "8:NoteHighLightAddins.tlb"
-            "TargetName" = "8:NoteHighLightAddins.tlb"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\js.lang"
+            "TargetName" = "8:js.lang"
             "Tag" = "8:"
-            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:2"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_86109462BA1745159661322829CD9252"
-            {
-            "SourcePath" = "8:..\\NoteHighLightAddins\\bin\\LocalDebug\\highlight\\mingwm10.dll"
-            "TargetName" = "8:mingwm10.dll"
-            "Tag" = "8:"
-            "Folder" = "8:_16DC5F5A17EE4D6C8AE36D17ED190436"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -778,43 +760,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8927668B388C3340CF4CB3D13F4B1736"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_89AB109A473F4585A3EE8673636C2BBA"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GenerateHighLightContent, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_8927668B388C3340CF4CB3D13F4B1736"
-                    {
-                    "Name" = "8:GenerateHighLightContent.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:GenerateHighLightContent.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\css.lang"
+            "TargetName" = "8:css.lang"
             "Tag" = "8:"
-            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_932FD924FA2E4AD6AE863F5F6DD0BCAA"
-            {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\edit-msvs2008.theme"
-            "TargetName" = "8:edit-msvs2008.theme"
-            "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -829,9 +780,9 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A2EF9C17E68848D1B6768E8AC9B21625"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8A61CFBED3544255853D838CBFA5B31A"
             {
-            "SourcePath" = "8:..\\NoteHighLightAddins\\bin\\LocalDebug\\highlight\\highlight.exe"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\highlight.exe"
             "TargetName" = "8:highlight.exe"
             "Tag" = "8:"
             "Folder" = "8:_16DC5F5A17EE4D6C8AE36D17ED190436"
@@ -849,176 +800,14 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AE87E4F0AA5E4A74965C223CBBA2F7B8"
-            {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\bright.theme"
-            "TargetName" = "8:bright.theme"
-            "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B3D9675B12A04F75A7B5F335569C45F8"
-            {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\edit-emacs.theme"
-            "TargetName" = "8:edit-emacs.theme"
-            "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BA8A68576D734CAE969375E3F448AAE9"
-            {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\sql.lang"
-            "TargetName" = "8:sql.lang"
-            "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C09E2AEA313F4EAAA63D634D5B90E177"
-            {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\php.lang"
-            "TargetName" = "8:php.lang"
-            "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CF0D2A179F1DD95AE6AE822E01D30BC5"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_CF0D2A179F1DD95AE6AE822E01D30BC5"
-                    {
-                    "Name" = "8:Helper.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Helper.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D5E637471234FA3D4B1E84581CD89750"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_D5E637471234FA3D4B1E84581CD89750"
-                    {
-                    "Name" = "8:Helper.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Helper.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D9EC73F492594C6A861B4EC00F2B3511"
-            {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\html.lang"
-            "TargetName" = "8:html.lang"
-            "Tag" = "8:"
-            "Folder" = "8:_2FAA89C289CB4D4BB33E61A80137DFA7"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E7A27685C11275DDDD93B76D72C20759"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9768055FFCE4ED77466AB4155283D782"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:GenerateHighLightContent, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_E7A27685C11275DDDD93B76D72C20759"
+                    "_9768055FFCE4ED77466AB4155283D782"
                     {
                     "Name" = "8:GenerateHighLightContent.dll"
                     "Attributes" = "3:512"
@@ -1042,9 +831,160 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EC5FB0F5F01D42FEAE5C5BBAB8AE8D35"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_982776787DAB497E9E462B6D463CAD64"
             {
-            "SourcePath" = "8:..\\NoteHighLightAddins\\bin\\LocalDebug\\highlight\\filetypes.conf"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_982776787DAB497E9E462B6D463CAD64"
+                    {
+                    "Name" = "8:Helper.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Helper.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A348F1CB593F4DB39DDBBCF969B5BB45"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\java.lang"
+            "TargetName" = "8:java.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B1C1A0A46CEB433B850E2732297E3044"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\bclear.theme"
+            "TargetName" = "8:bclear.theme"
+            "Tag" = "8:"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C10FEB0693CE4943A19EEB42822D0F62"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\rand01.theme"
+            "TargetName" = "8:rand01.theme"
+            "Tag" = "8:"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C14B672D29C34FA5A11B7593DDA8761E"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\COPYING"
+            "TargetName" = "8:COPYING"
+            "Tag" = "8:"
+            "Folder" = "8:_16DC5F5A17EE4D6C8AE36D17ED190436"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C97DD4AB6B3448E593DF7B85F85D2803"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\edit-jedit.theme"
+            "TargetName" = "8:edit-jedit.theme"
+            "Tag" = "8:"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D5485F4167E64284822EB625E63CD46E"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\csharp.lang"
+            "TargetName" = "8:csharp.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DA3E20899A9D4C8E948AE4C40C7C5B9B"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\filetypes.conf"
             "TargetName" = "8:filetypes.conf"
             "Tag" = "8:"
             "Folder" = "8:_16DC5F5A17EE4D6C8AE36D17ED190436"
@@ -1062,12 +1002,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F5960A4668DA4AB78A12C3DB534F59CF"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E479500563374BA3BCBCB17BDBDF7560"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\edit-eclipse.theme"
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\edit-eclipse.theme"
             "TargetName" = "8:edit-eclipse.theme"
             "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1082,12 +1022,83 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FD2FCE71E5CA4DA8ABB1F539FE5BEF04"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E921A0B8843569D22E487A2C5A185851"
             {
-            "SourcePath" = "8:..\\GenerageHighLightContent\\Lib\\edit-jedit.theme"
-            "TargetName" = "8:edit-jedit.theme"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ICSharpCode.TextEditor, Version=3.0.0.3437, Culture=neutral, PublicKeyToken=4d61825e8dd49f1a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_E921A0B8843569D22E487A2C5A185851"
+                    {
+                    "Name" = "8:ICSharpCode.TextEditor.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ICSharpCode.TextEditor.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_125A73E9F3A24780A2F0D0BFAE0E7E00"
+            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F546AA2D3E1245D2B1C8206F884D73DA"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\xml.lang"
+            "TargetName" = "8:xml.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F70330CDC637460788D73B378BF496F4"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\php.lang"
+            "TargetName" = "8:php.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F875AD6650F7469BA8BE53F8BC9C2258"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\themes\\edit-msvs2008.theme"
+            "TargetName" = "8:edit-msvs2008.theme"
+            "Tag" = "8:"
+            "Folder" = "8:_20630CA2B7DB4E2CA558C7C2907AEB18"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1138,24 +1149,24 @@
                     "Property" = "8:_455DA047643346A8B5602F9FECDDE885"
                         "Folders"
                         {
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_125A73E9F3A24780A2F0D0BFAE0E7E00"
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_20630CA2B7DB4E2CA558C7C2907AEB18"
                             {
                             "Name" = "8:themes"
                             "AlwaysCreate" = "11:FALSE"
                             "Condition" = "8:"
                             "Transitive" = "11:FALSE"
-                            "Property" = "8:_7648EAD1DBB24746B759B043B4B27A10"
+                            "Property" = "8:_137BFBBCD4334E61A1F349502A89B4F9"
                                 "Folders"
                                 {
                                 }
                             }
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_2FAA89C289CB4D4BB33E61A80137DFA7"
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_B289614FEB944B99AFBAADD8DAD0FABD"
                             {
                             "Name" = "8:langDefs"
                             "AlwaysCreate" = "11:FALSE"
                             "Condition" = "8:"
                             "Transitive" = "11:FALSE"
-                            "Property" = "8:_2D62822258D1493FB438704DDBED713D"
+                            "Property" = "8:_B01E053344B04350A5649905CFC3C37D"
                                 "Folders"
                                 {
                                 }
@@ -1192,7 +1203,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:NoteAddinsSetup"
         "ProductCode" = "8:{AAF830F2-438E-4070-BD44-48D1A4CC8DB0}"
-        "PackageCode" = "8:{CAD940EB-C2F6-4895-9C3F-4AECD4649AFB}"
+        "PackageCode" = "8:{5607DD1F-C2A3-4E09-800A-83026A710066}"
         "UpgradeCode" = "8:{F06EBE7D-B5E8-4D19-9940-0CFAFE814C48}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"

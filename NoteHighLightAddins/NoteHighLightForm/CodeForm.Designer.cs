@@ -35,8 +35,8 @@
             this.cbx_Clipboard = new System.Windows.Forms.CheckBox();
             this.cbx_lineNumber = new System.Windows.Forms.CheckBox();
             this.splitContainer2 = new System.Windows.Forms.SplitContainer();
-            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.txtCode = new ICSharpCode.TextEditor.TextEditorControl();
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
@@ -53,7 +53,7 @@
             this.btnCodeHighLight.Name = "btnCodeHighLight";
             this.btnCodeHighLight.Size = new System.Drawing.Size(75, 40);
             this.btnCodeHighLight.TabIndex = 0;
-            this.btnCodeHighLight.Text = "確定(&S)";
+            this.btnCodeHighLight.Text = "OK(&O)";
             this.btnCodeHighLight.UseVisualStyleBackColor = true;
             this.btnCodeHighLight.Click += new System.EventHandler(this.btnCodeHighLight_Click);
             // 
@@ -62,9 +62,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(19, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(55, 12);
+            this.label1.Size = new System.Drawing.Size(54, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "樣式(&S)：";
+            this.label1.Text = "Style(&S)：";
             // 
             // splitContainer1
             // 
@@ -110,11 +110,11 @@
             this.cbx_Clipboard.AutoSize = true;
             this.cbx_Clipboard.Checked = global::NoteHighLightForm.Properties.Settings.Default.SaveOnClipboard;
             this.cbx_Clipboard.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::NoteHighLightForm.Properties.Settings.Default, "SaveOnClipboard", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
-            this.cbx_Clipboard.Location = new System.Drawing.Point(477, 12);
+            this.cbx_Clipboard.Location = new System.Drawing.Point(448, 12);
             this.cbx_Clipboard.Name = "cbx_Clipboard";
-            this.cbx_Clipboard.Size = new System.Drawing.Size(100, 16);
+            this.cbx_Clipboard.Size = new System.Drawing.Size(128, 16);
             this.cbx_Clipboard.TabIndex = 2;
-            this.cbx_Clipboard.Text = "存到剪貼簿(&C)";
+            this.cbx_Clipboard.Text = "Copy to Clipboard(&C)";
             this.cbx_Clipboard.UseVisualStyleBackColor = true;
             // 
             // cbx_lineNumber
@@ -123,11 +123,11 @@
             this.cbx_lineNumber.Checked = global::NoteHighLightForm.Properties.Settings.Default.ShowLineNumber;
             this.cbx_lineNumber.CheckState = System.Windows.Forms.CheckState.Checked;
             this.cbx_lineNumber.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::NoteHighLightForm.Properties.Settings.Default, "ShowLineNumber", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
-            this.cbx_lineNumber.Location = new System.Drawing.Point(380, 12);
+            this.cbx_lineNumber.Location = new System.Drawing.Point(338, 12);
             this.cbx_lineNumber.Name = "cbx_lineNumber";
-            this.cbx_lineNumber.Size = new System.Drawing.Size(88, 16);
+            this.cbx_lineNumber.Size = new System.Drawing.Size(102, 16);
             this.cbx_lineNumber.TabIndex = 1;
-            this.cbx_lineNumber.Text = "顯示行號(&N)";
+            this.cbx_lineNumber.Text = "Line Number(&N)";
             this.cbx_lineNumber.UseVisualStyleBackColor = true;
             // 
             // splitContainer2
