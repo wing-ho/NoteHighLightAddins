@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Xml.Linq;
 using System.IO;
 using System.Diagnostics;
 using System.Reflection;
@@ -25,11 +24,17 @@ namespace GenerateHighLightContent
 
         public string FileName { get; set; }
 
+        /// <summary> highlight.exe 參數 設定於 App.config 的 HighLightSection 區塊 </summary>
         private static HighLightSection _section = ConfigurationManager.GetSection("HighLightSection") as HighLightSection;
         #endregion
 
         #region -- Constructor --
 
+        /// <summary> 建構子 </summary>
+        /// <param name="fileName">檔案名稱</param>
+        /// <param name="sourceContent">要HighLight的內容</param>
+        /// <param name="codeType">語言類型</param>
+        /// <param name="highLightStyle">HighLight的Style</param>
         public GenerateHighLight(string fileName, string sourceContent, string codeType, string highLightStyle)
         {
             FileName = fileName;
@@ -42,7 +47,7 @@ namespace GenerateHighLightContent
 
         #region -- IGenerageHighLight Member --
 
-        public void GenerateHighLightCode()
+        public string GenerateHighLightCode()
         {
             string tempPath = Path.GetTempPath();
             string inputFileName = Path.Combine(tempPath, FileName);
@@ -63,6 +68,7 @@ namespace GenerateHighLightContent
                 throw new FileNotFoundException("找不到outputFile");
 
             File.Delete(inputFileName);
+            return outputFileName;
         }
 
         private string GenerateArguments(string inputFileName, string outputFileName)

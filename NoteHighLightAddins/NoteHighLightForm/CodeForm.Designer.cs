@@ -62,9 +62,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(19, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(54, 12);
+            this.label1.Size = new System.Drawing.Size(40, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Style(&S)：";
+            this.label1.Text = "Style：";
             // 
             // splitContainer1
             // 
@@ -85,7 +85,7 @@
             this.splitContainer1.Panel2.Controls.Add(this.splitContainer2);
             this.splitContainer1.Size = new System.Drawing.Size(584, 494);
             this.splitContainer1.SplitterDistance = 39;
-            this.splitContainer1.TabIndex = 8;
+            this.splitContainer1.TabIndex = 0;
             // 
             // cbx_style
             // 
@@ -100,10 +100,10 @@
             "bright",
             "bclear",
             "edit-msvs2008"});
-            this.cbx_style.Location = new System.Drawing.Point(80, 7);
+            this.cbx_style.Location = new System.Drawing.Point(68, 7);
             this.cbx_style.Name = "cbx_style";
             this.cbx_style.Size = new System.Drawing.Size(121, 20);
-            this.cbx_style.TabIndex = 3;
+            this.cbx_style.TabIndex = 0;
             // 
             // cbx_Clipboard
             // 

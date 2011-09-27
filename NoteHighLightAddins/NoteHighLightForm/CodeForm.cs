@@ -79,9 +79,11 @@ namespace NoteHighLightForm
             IGenerateHighLight generate = new GenerateHighLight(_fileName, CodeContent, _codeType, CodeStyle);
             generate.ShowLineNumber = IsShowLineNumber;
 
+            string outputFileName = String.Empty;
+
             try
             {
-                generate.GenerateHighLightCode();
+                outputFileName = generate.GenerateHighLightCode();
             }
             catch (Exception ex)
             {
@@ -91,7 +93,9 @@ namespace NoteHighLightForm
                 return;
             }
 
-            if (IsClipboard) InsertToClipboard();
+            if (IsClipboard && !String.IsNullOrEmpty(outputFileName)) 
+                InsertToClipboard(outputFileName);
+            
             SaveSetting();
 
             this.Dispose();
@@ -101,18 +105,17 @@ namespace NoteHighLightForm
         #endregion
 
         /// <summary>
-        /// Insert To Clipboard
+        /// Copy HighLight Code To Clipboard
         /// </summary>
-        private void InsertToClipboard()
+        private void InsertToClipboard(string outputFileName)
         {
-            string savePath = Path.Combine(Path.GetTempPath(), _fileName + ".html");
-
             StringBuilder sb = new StringBuilder();
 
-            using (FileStream fs = new FileStream(savePath, FileMode.Open, FileAccess.Read))
+            using (FileStream fs = new FileStream(outputFileName, FileMode.Open, FileAccess.Read))
             {
                 using (StreamReader sr = new StreamReader(fs, Encoding.UTF8))
                 {
+                    //Fix 存到剪貼簿空白不見的問題
                     while (sr.Peek() >= 0)
                     {
                         string line = sr.ReadLine();
@@ -147,7 +150,7 @@ namespace NoteHighLightForm
                 }
             }
             HtmlFragment.CopyToClipboard(sb.ToString());
-            File.Delete(savePath);
+            File.Delete(outputFileName);
         }
 
         /// <summary>

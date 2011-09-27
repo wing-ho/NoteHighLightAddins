@@ -103,6 +103,7 @@
     <None Include="Resources\CSharp.png" />
     <None Include="Resources\JAVA.png" />
     <None Include="Resources\PHP.png" />
+    <Content Include="icon.ico" />
     <Content Include="Ribbon.xml">
       <SubType>Designer</SubType>
     </Content>
