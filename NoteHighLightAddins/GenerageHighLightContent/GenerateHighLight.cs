@@ -79,8 +79,8 @@ namespace GenerateHighLightContent
 
             string arguments = sb.ToString().TemplateSubstitute(new
             {
-                inputFileName = inputFileName,
-                outputFileName = outputFileName,
+                inputFileName = String.Format("\"{0}\"",inputFileName), 
+                outputFileName = String.Format("\"{0}\"",outputFileName),
                 codeType = CodeType,
                 highLightStyle = HighLightStyle
             });
