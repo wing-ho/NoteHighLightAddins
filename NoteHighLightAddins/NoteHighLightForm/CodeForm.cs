@@ -20,7 +20,7 @@ namespace NoteHighLightForm
 
         //檔案類型
         private string _codeType;
-        
+
         //檔案名稱
         private string _fileName;
 
@@ -76,14 +76,22 @@ namespace NoteHighLightForm
         /// </summary>
         private void btnCodeHighLight_Click(object sender, EventArgs e)
         {
-            IGenerateHighLight generate = new GenerateHighLight(_fileName, CodeContent, _codeType, CodeStyle);
-            generate.ShowLineNumber = IsShowLineNumber;
-
+            IGenerateHighLight generate = new GenerateHighLight();
+            
             string outputFileName = String.Empty;
+
+            HighLightParameter parameter = new HighLightParameter()
+            {
+                FileName = _fileName,
+                Content = CodeContent,
+                CodeType = _codeType,
+                HighLightStyle = CodeStyle,
+                ShowLineNumber = IsShowLineNumber
+            };
 
             try
             {
-                outputFileName = generate.GenerateHighLightCode();
+                outputFileName = generate.GenerateHighLightCode(parameter);
             }
             catch (Exception ex)
             {
@@ -93,9 +101,9 @@ namespace NoteHighLightForm
                 return;
             }
 
-            if (IsClipboard && !String.IsNullOrEmpty(outputFileName)) 
+            if (IsClipboard && !String.IsNullOrEmpty(outputFileName))
                 InsertToClipboard(outputFileName);
-            
+
             SaveSetting();
 
             this.Dispose();
@@ -130,7 +138,7 @@ namespace NoteHighLightForm
                         if (IsShowLineNumber)
                         {
                             index = line.IndexOf(span) + span.Length;
-                            sbLine.Append(line.Substring(0,index));
+                            sbLine.Append(line.Substring(0, index));
                         }
 
                         for (int i = index; i < charList.Count; i++)

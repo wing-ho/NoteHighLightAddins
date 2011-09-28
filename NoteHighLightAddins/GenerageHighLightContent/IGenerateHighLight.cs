@@ -9,9 +9,24 @@ namespace GenerateHighLightContent
     {
         /// <summary> 產生HighLight Code </summary>
         /// <returns> 產出的檔案路徑 </returns>
-         string GenerateHighLightCode();
+        string GenerateHighLightCode(HighLightParameter parameter);
+    }
+
+    public class HighLightParameter
+    {
+        /// <summary> 內容 </summary>
+        public string Content { get; set; }
+
+        /// <summary> 語法類型 </summary>
+        public string CodeType { get; set; }
+
+        /// <summary> 高亮樣式 </summary>
+        public string HighLightStyle { get; set; }
 
         /// <summary> 是否顯示行號 </summary>
-         bool ShowLineNumber { get; set; }
+        public bool ShowLineNumber { get; set; }
+
+        /// <summary> 檔案名稱 </summary>
+        public string FileName { get; set; }
     }
 }

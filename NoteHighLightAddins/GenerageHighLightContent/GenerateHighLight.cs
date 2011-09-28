@@ -28,27 +28,14 @@ namespace GenerateHighLightContent
         private static HighLightSection _section = ConfigurationManager.GetSection("HighLightSection") as HighLightSection;
         #endregion
 
-        #region -- Constructor --
-
-        /// <summary> 建構子 </summary>
-        /// <param name="fileName">檔案名稱</param>
-        /// <param name="sourceContent">要HighLight的內容</param>
-        /// <param name="codeType">語言類型</param>
-        /// <param name="highLightStyle">HighLight的Style</param>
-        public GenerateHighLight(string fileName, string sourceContent, string codeType, string highLightStyle)
-        {
-            FileName = fileName;
-            Content = sourceContent;
-            CodeType = codeType;
-            HighLightStyle = highLightStyle;
-        }
-
-        #endregion
-
         #region -- IGenerageHighLight Member --
 
-        public string GenerateHighLightCode()
+        /// <summary> 呼叫highlight.exe 產生高亮後的html </summary>
+        /// <returns>回傳 Html 所在的路徑</returns>
+        public string GenerateHighLightCode(HighLightParameter parameter)
         {
+            InitParameter(parameter);
+
             string tempPath = Path.GetTempPath();
             string inputFileName = Path.Combine(tempPath, FileName);
             string outputFileName = Path.Combine(tempPath, FileName) + ".html";
@@ -71,6 +58,17 @@ namespace GenerateHighLightContent
             return outputFileName;
         }
 
+        /// <summary> 初始化參數 </summary>
+        private void InitParameter(HighLightParameter parameter)
+        {
+            Content = parameter.Content;
+            CodeType = parameter.CodeType;
+            HighLightStyle = parameter.HighLightStyle;
+            ShowLineNumber = parameter.ShowLineNumber;
+            FileName = parameter.FileName;
+        }
+
+        /// <summary> 產生HighLight.exe 所需的參數 </summary>
         private string GenerateArguments(string inputFileName, string outputFileName)
         {
             if (_section == null) throw new Exception("Config 內找不到 HighLightSection 區段");
@@ -94,6 +92,7 @@ namespace GenerateHighLightContent
             return arguments;
         }
 
+        /// <summary> 讀取 ConfigurationElementCollection </summary>
         private void ReadConfigCollection(StringBuilder sb, ConfigurationElementCollection collection)
         {
             foreach (Argument item in collection)

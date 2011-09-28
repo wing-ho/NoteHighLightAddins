@@ -17,7 +17,7 @@ namespace NoteHighLightForm
             Application.SetCompatibleTextRenderingDefault(false);
             
             if (args.Length != 2)
-                throw new ArgumentException("此表單只接受兩個參數，第一個為CodeType，第二個為FileName。");
+                throw new ArgumentException("此 Form 只接受兩個參數，第一個為CodeType，第二個為FileName。");
             
             var codeType = args[0];
             var fileName = args[1];
