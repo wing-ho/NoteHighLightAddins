@@ -105,7 +105,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6F333264E13449169583B7A8675D9742"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7D8BCD2A7FD3448CA0702A8D638E3B85"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_87F037E335F044339E638CC050698CED"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -256,18 +274,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F4222742F1CE20D62C519FEF1BC24355"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_1FDFD1900CAD2BEB377BDE4724895B8F"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -275,6 +281,18 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_E921A0B8843569D22E487A2C5A185851"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_F4222742F1CE20D62C519FEF1BC24355"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_1FDFD1900CAD2BEB377BDE4724895B8F"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -739,6 +757,66 @@
             {
             "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\js.lang"
             "TargetName" = "8:js.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6F333264E13449169583B7A8675D9742"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\ruby.lang"
+            "TargetName" = "8:ruby.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7D8BCD2A7FD3448CA0702A8D638E3B85"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\perl.lang"
+            "TargetName" = "8:perl.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_87F037E335F044339E638CC050698CED"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\python.lang"
+            "TargetName" = "8:python.lang"
             "Tag" = "8:"
             "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
             "Condition" = "8:"
@@ -1229,7 +1307,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:NoteHighLight"
         "ProductCode" = "8:{AAF830F2-438E-4070-BD44-48D1A4CC8DB0}"
-        "PackageCode" = "8:{F1B5A12F-CF9E-48C4-996D-B6C0B9D84C95}"
+        "PackageCode" = "8:{9EAF2952-136E-4E09-A0CD-B2255677B1F3}"
         "UpgradeCode" = "8:{F06EBE7D-B5E8-4D19-9940-0CFAFE814C48}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"

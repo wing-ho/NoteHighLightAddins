@@ -104,6 +104,9 @@
     <None Include="Resources\JAVA.png" />
     <None Include="Resources\PHP.png" />
     <Content Include="icon.ico" />
+    <None Include="Resources\Perl.png" />
+    <None Include="Resources\Python.png" />
+    <None Include="Resources\Ruby.png" />
     <Content Include="Ribbon.xml">
       <SubType>Designer</SubType>
     </Content>

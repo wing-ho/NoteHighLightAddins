@@ -12,6 +12,9 @@
           <button id="buttonXML" label="XML" size="large" screentip="Entry XML Code" onAction="ShowCodeForm" tag="xml" keytip="X"  image="XML.png"/>
           <button id="buttonJAVA" label="JAVA" size="large" screentip="Entry JAVA Code" onAction="ShowCodeForm" tag="java" keytip="V"  image="JAVA.png"/>
           <button id="buttonPHP" label="PHP" size="large" screentip="Entry PHP Code" onAction="ShowCodeForm" tag="php" keytip="P"  image="PHP.png"/>
+          <button id="buttonPerl" label="Perl" size="large" screentip="Entry Perl Code" onAction="ShowCodeForm" tag="perl" keytip="B"  image="Perl.png"/>
+          <button id="buttonPython" label="Python" size="large" screentip="Entry Python Code" onAction="ShowCodeForm" tag="py" keytip="A"  image="Python.png"/>
+          <button id="buttonRuby" label="Ruby" size="large" screentip="Entry Ruby Code" onAction="ShowCodeForm" tag="ruby" keytip="R"  image="Ruby.png"/>
         </group>
       </tab>
     </tabs>
