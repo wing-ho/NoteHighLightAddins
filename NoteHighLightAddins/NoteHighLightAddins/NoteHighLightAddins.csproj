@@ -107,6 +107,7 @@
     <None Include="Resources\Perl.png" />
     <None Include="Resources\Python.png" />
     <None Include="Resources\Ruby.png" />
+    <None Include="Resources\CPP.png" />
     <Content Include="Ribbon.xml">
       <SubType>Designer</SubType>
     </Content>

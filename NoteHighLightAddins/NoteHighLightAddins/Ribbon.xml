@@ -15,6 +15,7 @@
           <button id="buttonPerl" label="Perl" size="large" screentip="Entry Perl Code" onAction="ShowCodeForm" tag="perl" keytip="B"  image="Perl.png"/>
           <button id="buttonPython" label="Python" size="large" screentip="Entry Python Code" onAction="ShowCodeForm" tag="py" keytip="A"  image="Python.png"/>
           <button id="buttonRuby" label="Ruby" size="large" screentip="Entry Ruby Code" onAction="ShowCodeForm" tag="ruby" keytip="R"  image="Ruby.png"/>
+          <button id="buttonCpp" label="C++" size="large" screentip="Entry C++ Code" onAction="ShowCodeForm" tag="c" keytip="D"  image="CPP.png"/>
         </group>
       </tab>
     </tabs>

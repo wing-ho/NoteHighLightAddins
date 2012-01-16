@@ -51,19 +51,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1FDFD1900CAD2BEB377BDE4724895B8F"
-        "OwnerKey" = "8:_F4222742F1CE20D62C519FEF1BC24355"
+        "MsmKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
+        "OwnerKey" = "8:_9768055FFCE4ED77466AB4155283D782"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1FDFD1900CAD2BEB377BDE4724895B8F"
-        "OwnerKey" = "8:_F302CA43B93A66F1F05663D73F18AB5C"
+        "MsmKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
+        "OwnerKey" = "8:_33297D37F01ECAAFF6EBA8DA31E4BA02"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_1FDFD1900CAD2BEB377BDE4724895B8F"
+        "MsmKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
         "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -81,14 +81,20 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_3B8E4B75F9D0474DA4C907A35B3E0964"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_33297D37F01ECAAFF6EBA8DA31E4BA02"
+        "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_3E9A1A49FBCFEC62E2D58290FC3F3537"
+        "MsmKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
         "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3B8E4B75F9D0474DA4C907A35B3E0964"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -112,6 +118,12 @@
         "Entry"
         {
         "MsmKey" = "8:_7D8BCD2A7FD3448CA0702A8D638E3B85"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7ECB5CA2A80C4FF6AD0C749A7004E812"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -141,7 +153,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_92F177360C85A3D489953D3F15063F69"
+        "MsmKey" = "8:_9768055FFCE4ED77466AB4155283D782"
+        "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9768055FFCE4ED77466AB4155283D782"
+        "OwnerKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_982776787DAB497E9E462B6D463CAD64"
         "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -202,31 +226,13 @@
         "Entry"
         {
         "MsmKey" = "8:_E921A0B8843569D22E487A2C5A185851"
-        "OwnerKey" = "8:_3E9A1A49FBCFEC62E2D58290FC3F3537"
+        "OwnerKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_E921A0B8843569D22E487A2C5A185851"
         "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F302CA43B93A66F1F05663D73F18AB5C"
-        "OwnerKey" = "8:_869E753522B247F1B6F767F7D94DE7FF"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F4222742F1CE20D62C519FEF1BC24355"
-        "OwnerKey" = "8:_2E56CDF5947C4CC390904EC6B663A811"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_F4222742F1CE20D62C519FEF1BC24355"
-        "OwnerKey" = "8:_3E9A1A49FBCFEC62E2D58290FC3F3537"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -256,19 +262,31 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_3E9A1A49FBCFEC62E2D58290FC3F3537"
+        "OwnerKey" = "8:_39B485B706809D532F905C0BD2E11D5B"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F302CA43B93A66F1F05663D73F18AB5C"
+        "OwnerKey" = "8:_33297D37F01ECAAFF6EBA8DA31E4BA02"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_92F177360C85A3D489953D3F15063F69"
+        "OwnerKey" = "8:_982776787DAB497E9E462B6D463CAD64"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9768055FFCE4ED77466AB4155283D782"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_1FB6113FA2444825F0F116BE0B7B7786"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -281,18 +299,6 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_E921A0B8843569D22E487A2C5A185851"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_F4222742F1CE20D62C519FEF1BC24355"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_1FDFD1900CAD2BEB377BDE4724895B8F"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -631,14 +637,14 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1FDFD1900CAD2BEB377BDE4724895B8F"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1FB6113FA2444825F0F116BE0B7B7786"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64"
+            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_1FDFD1900CAD2BEB377BDE4724895B8F"
+                    "_1FB6113FA2444825F0F116BE0B7B7786"
                     {
                     "Name" = "8:Helper.dll"
                     "Attributes" = "3:512"
@@ -682,12 +688,23 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B8E4B75F9D0474DA4C907A35B3E0964"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_33297D37F01ECAAFF6EBA8DA31E4BA02"
             {
-            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\sql.lang"
-            "TargetName" = "8:sql.lang"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:GenerateHighLightContent, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_33297D37F01ECAAFF6EBA8DA31E4BA02"
+                    {
+                    "Name" = "8:GenerateHighLightContent.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:GenerateHighLightContent.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -699,17 +716,17 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3E9A1A49FBCFEC62E2D58290FC3F3537"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_39B485B706809D532F905C0BD2E11D5B"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:NoteHighLightForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64"
+            "AssemblyAsmDisplayName" = "8:NoteHighLightForm, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_3E9A1A49FBCFEC62E2D58290FC3F3537"
+                    "_39B485B706809D532F905C0BD2E11D5B"
                     {
                     "Name" = "8:NoteHighLightForm.exe"
                     "Attributes" = "3:512"
@@ -731,6 +748,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3B8E4B75F9D0474DA4C907A35B3E0964"
+            {
+            "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\sql.lang"
+            "TargetName" = "8:sql.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4B7F4FA0F15D426EB8DF4990BA53F2E3"
@@ -813,6 +850,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7ECB5CA2A80C4FF6AD0C749A7004E812"
+            {
+            "SourcePath" = "8:C:\\Program Files (x86)\\WinHighlight\\langDefs\\c.lang"
+            "TargetName" = "8:c.lang"
+            "Tag" = "8:"
+            "Folder" = "8:_B289614FEB944B99AFBAADD8DAD0FABD"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_87F037E335F044339E638CC050698CED"
             {
             "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\python.lang"
@@ -873,14 +930,45 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_92F177360C85A3D489953D3F15063F69"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9768055FFCE4ED77466AB4155283D782"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64"
+            "AssemblyAsmDisplayName" = "8:GenerateHighLightContent, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
                 "ScatterAssemblies"
                 {
-                    "_92F177360C85A3D489953D3F15063F69"
+                    "_9768055FFCE4ED77466AB4155283D782"
+                    {
+                    "Name" = "8:GenerateHighLightContent.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:GenerateHighLightContent.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_982776787DAB497E9E462B6D463CAD64"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Helper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_982776787DAB497E9E462B6D463CAD64"
                     {
                     "Name" = "8:Helper.dll"
                     "Attributes" = "3:512"
@@ -1095,68 +1183,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F302CA43B93A66F1F05663D73F18AB5C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GenerateHighLightContent, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64"
-                "ScatterAssemblies"
-                {
-                    "_F302CA43B93A66F1F05663D73F18AB5C"
-                    {
-                    "Name" = "8:GenerateHighLightContent.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:GenerateHighLightContent.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F4222742F1CE20D62C519FEF1BC24355"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:GenerateHighLightContent, Version=1.0.0.0, Culture=neutral, processorArchitecture=AMD64"
-                "ScatterAssemblies"
-                {
-                    "_F4222742F1CE20D62C519FEF1BC24355"
-                    {
-                    "Name" = "8:GenerateHighLightContent.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:GenerateHighLightContent.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F546AA2D3E1245D2B1C8206F884D73DA"
             {
             "SourcePath" = "8:..\\NoteHighLightForm\\highlight\\langDefs\\xml.lang"
@@ -1236,7 +1262,7 @@
             }
             "{3C67513D-01DD-4637-8A68-80971EB9504F}:_5293499E9B8744A1BA817A9137139C5B"
             {
-            "DefaultLocation" = "8:[ProgramFiles64Folder][Manufacturer]\\[ProductName]"
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
             "AlwaysCreate" = "11:FALSE"
             "Condition" = "8:"
@@ -1307,7 +1333,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:NoteHighLight"
         "ProductCode" = "8:{AAF830F2-438E-4070-BD44-48D1A4CC8DB0}"
-        "PackageCode" = "8:{9EAF2952-136E-4E09-A0CD-B2255677B1F3}"
+        "PackageCode" = "8:{3439CB1D-B376-4E1D-9EFD-A6A02138CC2E}"
         "UpgradeCode" = "8:{F06EBE7D-B5E8-4D19-9940-0CFAFE814C48}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -1328,7 +1354,7 @@
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
-        "TargetPlatform" = "3:1"
+        "TargetPlatform" = "3:0"
         "PreBuildEvent" = "8:"
         "PostBuildEvent" = "8:"
         "RunPostBuildEvent" = "3:0"
@@ -2138,7 +2164,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_2E56CDF5947C4CC390904EC6B663A811"
             {
-            "SourcePath" = "8:..\\NoteHighLightForm\\obj\\x86\\ReleaseX64\\NoteHighLightForm.exe"
+            "SourcePath" = "8:..\\NoteHighLightForm\\obj\\x86\\Release\\NoteHighLightForm.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"
@@ -2166,7 +2192,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_869E753522B247F1B6F767F7D94DE7FF"
             {
-            "SourcePath" = "8:..\\NoteHighLightAddins\\obj\\ReleaseX64\\NoteHighLightAddins.dll"
+            "SourcePath" = "8:..\\NoteHighLightAddins\\obj\\Release\\NoteHighLightAddins.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_5293499E9B8744A1BA817A9137139C5B"

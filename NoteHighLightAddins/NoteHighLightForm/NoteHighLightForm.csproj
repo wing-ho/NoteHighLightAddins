@@ -124,6 +124,7 @@
     <None Include="highlight\filetypes.conf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="highlight\langDefs\c.lang" />
     <None Include="highlight\langDefs\csharp.lang">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -139,9 +140,12 @@
     <None Include="highlight\langDefs\js.lang">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="highlight\langDefs\perl.lang" />
     <None Include="highlight\langDefs\php.lang">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="highlight\langDefs\python.lang" />
+    <None Include="highlight\langDefs\ruby.lang" />
     <None Include="highlight\langDefs\sql.lang">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

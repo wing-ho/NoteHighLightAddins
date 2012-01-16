@@ -193,6 +193,9 @@ namespace NoteHighLightForm
                 case "java":
                     result = "Java";
                     break;
+                case "c":
+                    result = "C++.NET";
+                    break;
                 default:
                     result = "";
                     break;

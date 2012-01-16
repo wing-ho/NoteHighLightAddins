@@ -60,6 +60,13 @@ namespace NoteHighLightAddins.Properties {
             }
         }
         
+        internal static System.Drawing.Bitmap CPP {
+            get {
+                object obj = ResourceManager.GetObject("CPP", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
         internal static System.Drawing.Bitmap CSharp {
             get {
                 object obj = ResourceManager.GetObject("CSharp", resourceCulture);
