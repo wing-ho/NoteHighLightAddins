@@ -42,6 +42,7 @@ namespace NoteHighLightForm
 
         public CodeForm(string codeType, string fileName)
         {
+            System.Diagnostics.Debug.WriteLine(codeType + " " + fileName);
             _codeType = codeType;
             _fileName = fileName;
             InitializeComponent();

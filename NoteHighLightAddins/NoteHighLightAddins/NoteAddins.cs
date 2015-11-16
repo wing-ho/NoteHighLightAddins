@@ -17,8 +17,6 @@ using System.Reflection;
 using System.Drawing;
 using Helper;
 
-
-
 namespace NoteHighLightAddins
 {
     [GuidAttribute("4C6B0362-F139-417F-9661-3663C268B9E9"), ProgId("NoteHighLightAddins.NoteAddins")]
@@ -26,7 +24,7 @@ namespace NoteHighLightAddins
     {
         private XNamespace ns;
 
-        private ApplicationClass onApp = new ApplicationClass();
+        private Microsoft.Office.Interop.OneNote.Application onApp = new Microsoft.Office.Interop.OneNote.Application();
 
         #region IDTExtensibility2 成員
 
@@ -43,7 +41,7 @@ namespace NoteHighLightAddins
 
         public void OnConnection(object Application, ext_ConnectMode ConnectMode, object AddInInst, ref Array custom)
         {
-            onApp = (ApplicationClass)Application;
+            onApp = (Microsoft.Office.Interop.OneNote.Application)Application;
         }
 
         public void OnDisconnection(ext_DisconnectMode RemoveMode, ref Array custom)
@@ -55,7 +53,7 @@ namespace NoteHighLightAddins
 
         public void OnStartupComplete(ref Array custom)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
 
         #endregion

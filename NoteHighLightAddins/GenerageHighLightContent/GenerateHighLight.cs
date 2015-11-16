@@ -25,7 +25,7 @@ namespace GenerateHighLightContent
         public string FileName { get; set; }
 
         /// <summary> highlight.exe 參數 設定於 App.config 的 HighLightSection 區塊 </summary>
-        private static HighLightSection _section = ConfigurationManager.GetSection("HighLightSection") as HighLightSection;
+        private HighLightSection _section;
         #endregion
 
         #region -- IGenerageHighLight Member --
@@ -34,14 +34,22 @@ namespace GenerateHighLightContent
         /// <returns>回傳 Html 所在的路徑</returns>
         public string GenerateHighLightCode(HighLightParameter parameter)
         {
+            var result = ConfigurationManager.GetSection("HighLightSection");
+            _section = result as HighLightSection;
+
             InitParameter(parameter);
 
             string tempPath = Path.GetTempPath();
             string inputFileName = Path.Combine(tempPath, FileName);
             string outputFileName = Path.Combine(tempPath, FileName) + ".html";
 
+            //System.Diagnostics.Debug.WriteLine(inputFileName);
+            //System.Diagnostics.Debug.WriteLine(Content);
+            //System.Diagnostics.Debug.WriteLine(_section);
+            //System.Diagnostics.Debug.WriteLine(_section.FolderName);
+            //System.Diagnostics.Debug.WriteLine(ProcessHelper.GetAssemblyLocationDirectory);
             File.WriteAllText(inputFileName, Content, Encoding.UTF8);
-
+            
             var workingDirectory = Path.Combine(ProcessHelper.GetAssemblyLocationDirectory, _section.FolderName);
 
             ProcessHelper helper = new ProcessHelper(workingDirectory, _section.ProcessName);

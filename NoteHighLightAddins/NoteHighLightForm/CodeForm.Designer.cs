@@ -51,7 +51,7 @@
             this.btnCodeHighLight.Name = "btnCodeHighLight";
             this.btnCodeHighLight.Size = new System.Drawing.Size(104, 46);
             this.btnCodeHighLight.TabIndex = 0;
-            this.btnCodeHighLight.Text = "OK(&O)";
+            this.btnCodeHighLight.Text = "确定(&O)";
             this.btnCodeHighLight.UseVisualStyleBackColor = true;
             this.btnCodeHighLight.Click += new System.EventHandler(this.btnCodeHighLight_Click);
             // 
@@ -60,9 +60,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(28, 19);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(40, 12);
+            this.label1.Size = new System.Drawing.Size(41, 12);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Style：";
+            this.label1.Text = "样式：";
             // 
             // cbx_style
             // 
@@ -89,9 +89,9 @@
             this.cbx_Clipboard.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::NoteHighLightForm.Properties.Settings.Default, "SaveOnClipboard", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
             this.cbx_Clipboard.Location = new System.Drawing.Point(271, 18);
             this.cbx_Clipboard.Name = "cbx_Clipboard";
-            this.cbx_Clipboard.Size = new System.Drawing.Size(128, 16);
+            this.cbx_Clipboard.Size = new System.Drawing.Size(114, 16);
             this.cbx_Clipboard.TabIndex = 1;
-            this.cbx_Clipboard.Text = "Copy to Clipboard(&C)";
+            this.cbx_Clipboard.Text = "复制到剪切板(&C)";
             this.cbx_Clipboard.UseVisualStyleBackColor = true;
             // 
             // cbx_lineNumber
@@ -102,9 +102,9 @@
             this.cbx_lineNumber.DataBindings.Add(new System.Windows.Forms.Binding("Checked", global::NoteHighLightForm.Properties.Settings.Default, "ShowLineNumber", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
             this.cbx_lineNumber.Location = new System.Drawing.Point(405, 18);
             this.cbx_lineNumber.Name = "cbx_lineNumber";
-            this.cbx_lineNumber.Size = new System.Drawing.Size(102, 16);
+            this.cbx_lineNumber.Size = new System.Drawing.Size(90, 16);
             this.cbx_lineNumber.TabIndex = 2;
-            this.cbx_lineNumber.Text = "Line Number(&N)";
+            this.cbx_lineNumber.Text = "显示行号(&N)";
             this.cbx_lineNumber.UseVisualStyleBackColor = true;
             // 
             // txtCode
@@ -157,7 +157,7 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "CodeForm";
-            this.Text = "NoteHighLight";
+            this.Text = "代码语法高亮";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.CodeForm_FormClosed);
             this.Load += new System.EventHandler(this.CodeForm_Load);
             this.panel1.ResumeLayout(false);
