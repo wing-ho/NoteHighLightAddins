@@ -114,14 +114,26 @@ namespace NoteHighLightAddins
             if (pageNode != null)
             {
                 var existingPageId = pageNode.Attribute("ID").Value;
+                insertHighLightCodeAtCursor(htmlContent, existingPageId);
+                //string[] position = GetMousePointPosition(existingPageId);
 
-                string[] position = GetMousePointPosition(existingPageId);
+                //var page = InsertHighLightCode(htmlContent, position);
+                //page.Root.SetAttributeValue("ID", existingPageId);
 
-                var page = InsertHighLightCode(htmlContent, position);
-                page.Root.SetAttributeValue("ID", existingPageId);
-
-                onApp.UpdatePageContent(page.ToString(), DateTime.MinValue);
+                //onApp.UpdatePageContent(page.ToString(), DateTime.MinValue);
             }
+        }
+        //将高亮代码插入到光标所在位置
+        private void insertHighLightCodeAtCursor(string htmlContent, string pageId)
+        {
+            string pageXml;
+            onApp.GetPageContent(pageId, out pageXml, PageInfo.piSelection);
+            var doc = XDocument.Parse(pageXml);
+            var selected = doc.Descendants(ns + "Outline").Descendants(ns + "T")
+                .Where(n => n.Attribute("selected") != null && n.Attribute("selected").Value == "all")
+                .FirstOrDefault();
+            selected.ReplaceNodes(new XCData(htmlContent));
+            onApp.UpdatePageContent(doc.ToString(), DateTime.MinValue);
         }
 
         /// <summary>
